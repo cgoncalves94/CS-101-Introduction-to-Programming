@@ -28,25 +28,38 @@ class Board:
     #class Board methods
     
     def place_mines(self):
+        # interate through the cells in the board and randomly swtich attribute is_mine to True
+        pass
+    
+    def get_neighbours(self, i, j):
+        # interate through the cells in the board and return a list with the cells objects that are adjacent
         pass
     
     def calculate_adjacent_mines(self):
+        # interate through the neighbours list of cells and increment when "is_mine" is True
         pass
     
-    def reveal_cell(self):
+    def reveal_cell(self, i, j):
+        # control flow to reveal what is in the cell (if is bomb or the number of ajacent mines)
         pass
 
-    def toogle_flag(self):
+    def toogle_flag(self, i, j):
+        # add or remove a flag from the specific cell 
         pass
     
     def check_winner(self):
+        # check if all non-revealed cells are bombs, if yes then the game is won
         pass
+    
+    
 
  #game logic functions 
 
 def game_loop(board):
+    # the main function of the game, where it will ask inputs, display board and message status
     pass
 
 def display_board(board):
+    # update the board displayed accordingly to the changes made with a control flow
     pass
 
