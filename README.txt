@@ -2,7 +2,7 @@ Minesweeper Game in Python
 
 This repository contains a Python implementation of the classic game Minesweeper.
 
-![Minesweeper Gameplay](https://github.com/cgoncalves94/Minesweeper/blob/main/minesweeper-minegif)
+![Minesweeper Gameplay](https://github.com/cgoncalves94/Minesweeper/blob/main/minesweeper-mine.gif)
 
 
 About The Game
