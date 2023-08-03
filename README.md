@@ -1,4 +1,4 @@
-# Unearthing Logic and Fun: Building a Minesweeper Game with Python
+# Building a Minesweeper Game with Python
 
 Welcome to my portfolio project for CS 101: Introduction to Programming! In this project, I've built a fully functional, interactive Minesweeper game that can be played in the terminal.
 
