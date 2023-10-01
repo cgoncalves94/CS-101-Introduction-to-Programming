@@ -2,8 +2,6 @@
 
 Welcome to my portfolio project for CS 101: Introduction to Programming! In this project, I've built a fully functional, interactive Minesweeper game that can be played in the terminal.
 
-![Minesweeper Gameplay](https://github.com/cgoncalves94/Minesweeper/blob/main/minesweeper-mine.gif)
-
 
 ## How To Play
 
